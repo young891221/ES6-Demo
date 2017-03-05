@@ -1,6 +1,7 @@
 .gradle
 /build/
 gradle/*
+node_modules
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
